@@ -33,9 +33,9 @@ Improve responsiveness and design
 Integrate backend functionality in future versions
 
 Authors/ Team Members:
-TAYYBA BASHIR
-GUL E NARGIS
-M. MAAZ SHAH
+TAYYBA BASHIR,
+GUL E NARGIS,
+M. MAAZ SHAH.
 
 License
 
