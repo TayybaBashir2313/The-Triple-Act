@@ -1,5 +1,3 @@
-Overview
-
 This project is a personal website developed as part of my learning journey in software engineering. The website is designed to showcase basic web development skills and demonstrate practical implementation of front end concepts.
 
 Technologies Used:
